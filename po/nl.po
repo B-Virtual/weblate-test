@@ -1,0 +1,7 @@
+white-space
+#  translator-comments
+#. automatic-comments
+#: reference
+#, flag
+msgid untranslated-string
+msgstr translated-string
